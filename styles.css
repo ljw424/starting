@@ -1,0 +1,257 @@
+body {
+    background-color:aliceblue;
+}
+
+h1 {
+    text-align: center;
+    font-weight:700;
+    font-size: 32px;
+    font-family: "Fira Sans", sans-serif;
+    color: #3F78CC;
+}
+
+h2 {
+    text-align: center;
+    font-weight:400;
+    font-size: 28px;
+    font-weight: bold;
+    font-family: "Lato", sans-serif;
+    color: #3F78CC;
+}
+
+.color-container {
+    display: flex;
+    justify-content: center;
+}
+
+
+.color-container-bright {
+    border-color: #3F78CC;
+    border-style: solid;
+    padding-top: 10px;
+    margin: auto;
+    padding-bottom: 40px;
+    text-align: center;
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+    white-space: nowrap;
+    white-space: normal;
+}
+
+.color-container-blue {
+    border-color: #3F78CC;
+    border-style: solid;
+    padding-top: 10px;
+    margin: auto;
+    padding-bottom: 40px;
+    text-align: center;
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+    white-space: nowrap;
+    white-space: normal;
+}
+
+.color-container-monochromatic {
+    border-color: #3F78CC;
+    border-style: solid;
+    padding-top: 10px;
+    margin: auto;
+    padding-bottom: 40px;
+    text-align: center;
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+    white-space: nowrap;
+    white-space: normal;
+}
+
+.color-panel {
+    display:inline-block;
+    min-height: 100px;
+    width: 15%;
+    text-align: center;
+    color: white;
+    font-family: Lato;
+    font-size: 10px;
+}
+
+.color-label {
+    margin: 12px;
+}
+
+.pink {
+    background-color: #F70597;
+}
+
+.purple {
+    background-color: #7D04D4;
+}
+
+.darkblue {
+    background-color: #0812EB;
+}
+
+.lightblue {
+    background-color: #048ED4;
+}
+
+.turquoise {
+    background-color: #0AF5B0;
+}
+
+.deepblue {
+    background-color: #284B80;
+}
+
+.paleblue {
+    background-color: #9CC3FF;
+}
+
+.midblue {
+    background-color: #4F96FF;
+}
+
+.greyblue {
+    background-color: #4E6280;
+}
+
+.smoothblue {
+    background-color: #3F78CC;
+}
+
+.trueblack{
+    background-color: #000000;
+}
+
+.redchocolate {
+    background-color: #4b3333;
+}
+
+.russett {
+    background-color: #976767;
+}
+
+.oat {
+    background-color: #cbb3b3;
+}
+
+.white {
+    background-color: #feffff;
+    color:#000000;
+}
+
+
+.font-container {
+    border-color: #3F78CC;
+    border-style: solid;
+    padding-top: 10px;
+    margin: 30px 30px;
+    padding-bottom: 40px;
+    text-align: center;
+    color:#3F78CC;
+    font-size: 20px;
+}
+
+.font-panel-lato {
+    font-family: Lato, sans-serif;
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.font-label-lato {
+    font-size: 30px;
+}
+
+.font-label-fira {
+    font-size: 30px;
+}
+
+.font-label-roboto {
+    font-size: 30px;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.font-panel-fira {
+    font-family: "Fira Sans", sans-serif;
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.font-panel-roboto-condensed {
+    font-family: "Roboto Condensed", sans-serif;
+    display: inline-block;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+.style-container {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.style-panel-h1 {
+    font-family: "Fira Sans", sans-serif;
+    color: #3F78CC;
+    border-color: #3F78CC;
+    border-style: solid;
+    padding-top: 10px;
+    margin: auto;
+    padding-bottom: 40px;
+    text-align: center;
+    display: inline-block;
+    height: 120px;
+    width: 500px;
+    white-space: nowrap;
+    white-space: normal;
+}
+
+.style-panel-h2 {
+    font-family: "Lato", sans-serif;
+    color: #3F78CC;
+    border-color: #3F78CC;
+    border-style: solid;
+    padding-top: 10px;
+    margin: auto;
+    padding-bottom: 40px;
+    text-align: center;
+    display: inline-block;
+    height: 120px;
+    width: 500px;
+    white-space: nowrap;
+    white-space: normal;
+}
+
+.style-panel-p {
+    font-family: "Roboto Condensed", sans-serif;
+    font-size: 18px;
+    font-weight:400;
+    color: #3F78CC;
+    border-color: #3F78CC;
+    border-style: solid;
+    padding-top: 10px;
+    margin: auto;
+    padding-bottom: 40px;
+    text-align: center;
+    display: inline-block;
+    height: 120px;
+    width: 500px;
+    white-space: nowrap;
+    white-space: normal;
+}
+
+li {
+    list-style: none;
+}
